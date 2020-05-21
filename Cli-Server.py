@@ -7,7 +7,7 @@ import time
 def cli_server():
     print()
     print('\tWelcom to Server Control Panel\n')
-    HOST = '192.168.18.1'
+    HOST = input('Enter your server IP@ :')
     PORT = 8585
     BIND = (HOST,PORT)
     NoRespondMsg_CLI = '[!] connection was to CLI_server was closed\nExiting...'
