@@ -2,7 +2,7 @@ import socket
 import threading
 import os
 # Server
-HOST = "192.168.18.1"
+HOST = input('Enter your server IP@ :')
 PORT = 8585
 BIND = (HOST,PORT)
 
