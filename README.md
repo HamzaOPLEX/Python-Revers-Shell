@@ -6,6 +6,9 @@ the idea of the project is simple you have a server and a CLI for that Server to
 
 Linux : 
 ```bash
+pip install PTable
+```
+```bash
 git clone https://github.com/HamzaOPLEX/Python-Revers-Shell/
 ```
 
